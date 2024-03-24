@@ -1,0 +1,7 @@
+br\com\darlan\portfoliomanager\util\impl\PessoaMapperTest.class
+br\com\darlan\portfoliomanager\util\impl\ProjetoMapperTest.class
+br\com\darlan\portfoliomanager\PortfoliomanagerApplicationTests.class
+br\com\darlan\portfoliomanager\util\ConverterUtilTest.class
+br\com\darlan\portfoliomanager\service\PessoaServiceTest.class
+br\com\darlan\portfoliomanager\util\TesteUtil.class
+br\com\darlan\portfoliomanager\repository\ProjetoRepositoryTest.class

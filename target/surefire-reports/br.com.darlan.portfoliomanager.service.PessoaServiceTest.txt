@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: br.com.darlan.portfoliomanager.service.PessoaServiceTest
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.733 s - in br.com.darlan.portfoliomanager.service.PessoaServiceTest
